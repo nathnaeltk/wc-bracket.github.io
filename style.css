@@ -1,0 +1,30 @@
+body{
+    background: rgb(86,4,44);
+background: linear-gradient(81deg, rgba(86,4,44,1) 0%, rgba(162,24,50,1) 84%, rgba(162,24,50,1) 100%);
+}
+h1{
+    text-align: center;
+    color: #FEC310;
+    font-family: 'Sawarabi Mincho', serif;
+    font-size: 1.8rem;
+}
+.header-title{
+    padding-top: 20px;
+    font-size: 2.6rem;
+}
+.subtitle{
+    font-family: 'Noto Color Emoji', 'Sawarabi Mincho', serif;
+    text-align: center;
+    color: white;
+}
+ul{
+    list-style: none;
+}
+.groups{
+    color: #56042C;
+    font-family: 'Noto Color Emoji', 'Sawarabi Mincho', serif;
+    padding: 10px 50px;
+}
+.group-column{
+    padding-top: 20px ;
+}
