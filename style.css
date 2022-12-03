@@ -1,6 +1,3 @@
-.{
-    font-family: 'Noto Color Emoji', 'Sawarabi Mincho', serif;
-}
 body{
     background: rgb(86,4,44);
     background: linear-gradient(81deg, rgba(86,4,44,1) 0%, rgba(162,24,50,1) 84%, rgba(162,24,50,1) 100%);
@@ -26,17 +23,175 @@ h2{
     text-align: center;
     color: white;
 }
-ul{
-    list-style: none;
-}
-.groups{
-    color: #56042C;
+h3{
     font-family: 'Noto Color Emoji', 'Sawarabi Mincho', serif;
-    padding: 10px 50px;
-}
-.group-column{
-    padding-top: 20px ;
+    color: #FEC310;
+    font-size: 12pt;
+    cursor: pointer;
 }
 .bracket-image{
     width: 100%;
+}
+.rosone{
+    position: absolute;
+    top: 22px;
+    left: 22px;
+}
+.rostwo{
+    position: absolute;
+    top: 78px;
+    left: 22px;
+}
+.rosthree{
+    position: absolute;
+    top: 142px;
+    left: 22px;
+}
+.rosfour{
+    position: absolute;
+    top: 198px;
+    left: 22px;
+}
+.rosfive{
+    position: absolute;
+    top: 260px;
+    left: 22px;
+}
+.rossix{
+    position: absolute;
+    top: 316px;
+    left: 22px;
+}
+.rosseven{
+    position: absolute;
+    top: 366px;
+    left: 22px;
+}
+.roseight{
+    position: absolute;
+    top: 422px;
+    left: 22px;
+}
+.rosnine{
+    position: absolute;
+    top: 22px;
+    right: 35px;
+}
+.rosten{
+    position: absolute;
+    top: 78px;
+    right: 35px;
+}
+.roseleven{
+    position: absolute;
+    top: 142px;
+    right: 35px;
+}
+.rostwelve{
+    position: absolute;
+    top: 198px;
+    right: 35px;
+}
+.rostherteen{
+    position: absolute;
+    top: 260px;
+    right: 35px;
+}
+.rosfourteen{
+    position: absolute;
+    top: 316px;
+    right: 35px;
+}
+.rosfifteen{
+    position: absolute;
+    top: 366px;
+    right: 35px;
+}
+.rossixteen{
+    position: absolute;
+    top: 422px;
+    right: 35px;
+}
+.roeone{
+    position: absolute;
+    top: 43px;
+    left: 185px;
+}
+.roetwo{
+    position: absolute;
+    top: 163px;
+    left: 185px;
+}
+.roethree{
+    position: absolute;
+    top: 285px;
+    left: 185px;
+}
+.roefour{
+    position: absolute;
+    top: 395px;
+    left: 185px;
+}
+.roefive{
+    position: absolute;
+    top: 43px;
+    right: 185px;
+}
+.roesix{
+    position: absolute;
+    top: 163px;
+    right: 185px;
+}
+.roeseven{
+    position: absolute;
+    top: 280px;
+    right: 185px;
+}
+.roeeight{
+    position: absolute;
+    top: 395px;
+    right: 185px;
+}
+.rofone{
+    position: absolute;
+    top: 92px;
+    left: 356px;
+}
+.roftwo{
+    position: absolute;
+    top: 330px;
+    left: 356px;
+}
+.rofthree{
+    position: absolute;
+    top: 92px;
+    right: 365px;
+}
+.roffour{
+    position: absolute;
+    top: 330px;
+    right: 365px;
+}
+.finalleft{
+    position: absolute;
+    top: 194px;
+    left: 525px;
+}
+.finalright{
+    position: absolute;
+    top: 194px;
+    right: 530px;
+}
+.champ{
+    position: absolute;
+    text-align: center;
+    top: 260px;
+    left: 630px;
+}
+
+
+
+.bracket{
+    position: relative;
+    text-align: center;
 }

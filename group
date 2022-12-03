@@ -1,0 +1,214 @@
+    <h1 class="header-title">Make your world cup 2022 bracket!</h1>
+    <h6 class="subtitle">Start with the group stage. Which of these teams in each group do you think will make it to the next round? </h6>
+
+
+    <section class="group-stage">
+    <div class="groups">
+    <div class="row">
+
+        <div class="group-column col-lg-3 col-md-6 col-sm-12">
+              <div class="card">
+                <div class="card-title card-header">
+                  <h3>Group A</h3>
+                  <h7>Click to select only your best two.</h7>
+                </div>
+                <div class="card-body">
+                    <ul class="group group2-list" col-3>
+                        <input type="checkbox" id="qatar" name="qatar" value="qatar">
+                        <label for="qatar"> <li>🇶🇦 Qatar </li></label> </br>
+
+                        <input type="checkbox" id="ecuador" name="ecuador" value="ecuador">
+                        <label for="ecuador"> <li>🇪🇨 Ecuador</li></label> </br>
+
+                        <input type="checkbox" id="senegal" name="senegal" value="senegal">
+                        <label for="senegal"> <li>🇸🇳 Senegal</li></label> </br>
+
+                        <input type="checkbox" id="netherlands" name="netherlands" value="netherlands">
+                        <label for="netherlands"> <li>🇳🇱 Netherlands</li></label> </br>
+                    </ul>
+                </div>
+              </div>
+        </div>
+
+
+        <div class="group-column col-lg-3 col-md-6 col-sm-12">
+            <div class="card">
+              <div class="card-title card-header">
+                <h3>Group B</h3>
+                <h7>Click to select only your best two.</h7>
+              </div>
+              <div class="card-body">
+                  <ul class="group group2-list" col-3>
+                      <input type="checkbox" id="england" name="england" value="england">
+                      <label for="england"> <li>🏴󠁧󠁢󠁥󠁮󠁧󠁿 England </li></label> </br>
+
+                      <input type="checkbox" id="iran" name="iran" value="iran">
+                      <label for="iran"> <li>🇮🇷 IR Iran</li></label> </br>
+
+                      <input type="checkbox" id="usa" name="usa" value="usa">
+                      <label for="usa"> <li>🇺🇸 USA</li></label> </br>
+
+                      <input type="checkbox" id="wales" name="wales" value="wales">
+                      <label for="wales"> <li>🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales</li></label> </br>
+                  </ul>
+              </div>
+            </div>
+      </div>
+
+
+      <div class="group-column col-lg-3 col-md-6 col-sm-12">
+        <div class="card">
+          <div class="card-title card-header">
+            <h3>Group C</h3>
+            <h7>Click to select only your best two.</h7>
+          </div>
+          <div class="card-body">
+              <ul class="group group2-list" col-3>
+                  <input type="checkbox" id="argentina" name="argentina" value="argentina">
+                  <label for="argentina"> <li>🇦🇷 Argentina</li></label> </br>
+
+                  <input type="checkbox" id="saudi" name="saudi" value="saudi">
+                  <label for="saudi"> <li>🇸🇦 Saudi Arabiya</li></label> </br>
+
+                  <input type="checkbox" id="mexico" name="mexico" value="mexico">
+                  <label for="mexico"> <li>🇲🇽 Mexico</li></label> </br>
+
+                  <input type="checkbox" id="poland" name="poland" value="poland">
+                  <label for="poland"> <li>🇵🇱 Poland </li></label> </br>
+              </ul>
+          </div>
+        </div>
+  </div>
+
+
+  <div class="group-column col-lg-3 col-md-6 col-sm-12">
+    <div class="card">
+      <div class="card-title card-header">
+        <h3>Group D</h3>
+        <h7>Click to select only your best two.</h7>
+      </div>
+      <div class="card-body">
+          <ul class="group group2-list" col-3>
+              <input type="checkbox" id="france" name="france" value="france">
+              <label for="france"> <li>🇫🇷 France</li></label> </br>
+
+              <input type="checkbox" id="australia" name="australia" value="australia">
+              <label for="australia"> <li>🇦🇺 Australia</li></label> </br>
+
+              <input type="checkbox" id="denmark" name="denmark" value="denmark">
+              <label for="denmark"> <li>🇩🇰 Denmark</li></label> </br>
+
+              <input type="checkbox" id="tunisia" name="tunisia" value="tunisia">
+              <label for="tunisia"> <li>🇹🇳 Tunisia </li></label> </br>
+          </ul>
+      </div>
+    </div>
+</div>
+
+
+      </div>
+
+      <div class="row">
+        <div class="group-column col-lg-3 col-md-6 col-sm-12">
+            <div class="card">
+              <div class="card-title card-header">
+                <h3>Group E</h3>
+                <h7>Click to select only your best two.</h7>
+              </div>
+              <div class="card-body">
+                  <ul class="group group2-list" col-3>
+                      <input type="checkbox" id="spain" name="spain" value="spain">
+                      <label for="spain"> <li>🇪🇸 Spain</li></label> </br>
+
+                      <input type="checkbox" id="costarica" name="costarica" value="costarica">
+                      <label for="costarica"> <li>🇨🇷 Costa Rica</li></label> </br>
+
+                      <input type="checkbox" id="germany" name="germany" value="germany">
+                      <label for="germany"> <li>🇩🇪 Germany</li></label> </br>
+
+                      <input type="checkbox" id="japan" name="japan" value="japan">
+                      <label for="japan"> <li>🇯🇵 Japan</li></label> </br>
+                  </ul>
+              </div>
+            </div>
+      </div>
+
+
+
+      <div class="group-column col-lg-3 col-md-6 col-sm-12">
+        <div class="card">
+          <div class="card-title card-header">
+            <h3>Group F</h3>
+            <h7>Click to select only your best two.</h7>
+          </div>
+          <div class="card-body">
+              <ul class="group group2-list" col-3>
+                  <input type="checkbox" id="belguim" name="belguim" value="belguim">
+                  <label for="belguim"> <li>🇧🇪 Belgium</li></label> </br>
+
+                  <input type="checkbox" id="canada" name="canada" value="canada">
+                  <label for="canada"> <li>🇨🇦 Canada</li></label> </br>
+
+                  <input type="checkbox" id="morocco" name="morocco" value="morocco">
+                  <label for="morocco"> <li>🇲🇦 Morocco</li></label> </br>
+
+                  <input type="checkbox" id="croatia" name="croatia" value="croatia">
+                  <label for="croatia"> <li>🇭🇷 Croatia</li></label> </br>
+              </ul>
+          </div>
+        </div>
+  </div>
+
+
+  <div class="group-column col-lg-3 col-md-6 col-sm-12">
+    <div class="card">
+      <div class="card-title card-header">
+        <h3>Group G</h3>
+        <h7>Click to select only your best two.</h7>
+      </div>
+      <div class="card-body">
+          <ul class="group group2-list" col-3>
+              <input type="checkbox" id="brazil" name="brazil" value="brazil">
+              <label for="brazil"> <li>🇧🇷Brazil </li></label> </br>
+
+              <input type="checkbox" id="serbia" name="serbia" value="serbia">
+              <label for="serbia"> <li>🇷🇸Serbia  </li></label> </br>
+
+              <input type="checkbox" id="switzerland" name="switzerland" value="switzerland">
+              <label for="switzerland"> <li>🇨🇭 Switzerland</li></label> </br>
+
+              <input type="checkbox" id="cameroon" name="cameroon" value="cameroon">
+              <label for="cameroon"> <li>🇨🇲 Cameroon</li></label> </br>
+          </ul>
+      </div>
+    </div>
+</div>
+
+
+
+<div class="group-column col-lg-3 col-md-6 col-sm-12">
+    <div class="card">
+      <div class="card-title card-header">
+        <h3>Group H</h3>
+        <h7>Click to select only your best two.</h7>
+      </div>
+      <div class="card-body">
+          <ul class="group group2-list" col-3>
+              <input type="checkbox" id="portugal" name="portugal" value="portugal">
+              <label for="portugal"> <li>🇵🇹 Portugal</li></label> </br>
+
+              <input type="checkbox" id="ghana" name="ghana" value="ghana">
+              <label for="ghana"> <li>🇬🇭 Ghana</li></label> </br>
+
+              <input type="checkbox" id="uruguay" name="uruguay" value="uruguay">
+              <label for="uruguay"> <li>🇺🇾 Uruguay</li></label> </br>
+
+              <input type="checkbox" id="korea" name="korea" value="korea">
+              <label for="korea"> <li>🇰🇷 Korea Republic</li></label> </br>
+          </ul>
+      </div>
+    </div>
+</div>
+</div>
+</div>
+</section>
